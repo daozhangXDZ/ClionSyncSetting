@@ -1,5 +1,0 @@
-<templateSet group="CMake">
-  <template name="boost" value="# see https://cmake.org/cmake/help/latest/module/FindBoost.html&#10;find_package(Boost REQUIRED)&#10;&#10;include_directories(${Boost_INCLUDE_DIR})" description="Add Boost headers" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
-</templateSet>
