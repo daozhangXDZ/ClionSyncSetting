@@ -1,11 +1,21 @@
-<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+<scheme name="_@user_Rider Dark" version="142" parent_scheme="Rider Dark">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-08-13T02:28:37</property>
+    <property name="created">2019-08-14T14:14:34</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-08-14T14:16:28</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="modified">2019-08-14T14:40:40</property>
+    <property name="originalScheme">Rider Dark</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
   <colors>
     <option name="FILESTATUS_ADDED" value="91b859" />
     <option name="FILESTATUS_COPIED" value="73c990" />
@@ -20,7 +30,6 @@
     <option name="FILESTATUS_MODIFIED" value="e2c08d" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
-    <option name="FILESTATUS_OBSOLETE" value="" />
     <option name="FILESTATUS_RENAMED" value="c679dd" />
     <option name="FILESTATUS_SUPPRESSED" value="abb2bf" />
     <option name="FILESTATUS_SWITCHED" value="61aeef" />
